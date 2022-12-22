@@ -1,0 +1,12 @@
+{
+    "name": "CODIST Organization Workflow",
+    "description": "CODIST Organization CI starter workflow.",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
